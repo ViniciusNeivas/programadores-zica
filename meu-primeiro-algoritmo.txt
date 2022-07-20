@@ -1,0 +1,51 @@
+Dar a seta para a direita para encostar o carro
+Frear o carro ate parar
+desligue o carro
+retire a chave da ignicao
+se estiver com cinto ? tirar o cinto : fazer nada
+leve a chave
+abir a porta 
+sair do carro
+fechar a porta
+abir porta mala
+pegar triangulo de sinalização
+colocar o triangulo atras do carro para sinalizar a via
+se tiver estiver estepe ? tirar o estepe : ligar para o seguro
+tirar macaco hidraulico
+tirar chave de roda
+tirar estepe
+feche o porta malas
+afrouxe parafuso
+encaixe o macaco embaixo do carro da forma correta
+levante o carro com o macaco
+coloque o estepe embaixo do carro
+afrouxe mais os parafusos ate que os mesmos saiam
+retire os parafusos
+retire a roda
+tire o novo kit roda/pneu debaixo do carro
+coloque o kit antigo debaixo do carro
+coloque o novo kit roda/pneu
+coloque os parafusos
+aperte os parafusos
+retire o kit roda/pneu debaixo do carro
+desca o carro
+reaperte mais os parafusos
+retire o macaco
+abra os porta malas
+guarde kit antigo roda/pneu
+guarde chave de roda
+guarde macaco
+pegue o triangulo
+guarde o triangulo
+feche o porta malas
+abra a porta
+entre
+feche a porta
+sente-se 
+desligue o pisca alerta
+pegue a chave
+coloque a chave na ignicao
+ligue o carro
+seta para esquerda
+olhe a movimentacao da via
+quando seguro estiver siga o seu caminho
