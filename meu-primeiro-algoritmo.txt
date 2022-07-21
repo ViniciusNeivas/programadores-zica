@@ -2,15 +2,16 @@ Dar a seta para a direita para encostar o carro
 Frear o carro ate parar
 desligue o carro
 retire a chave da ignicao
-se estiver com cinto ? tirar o cinto : fazer nada
+está com cinto ? tirar o cinto : fazer nada
 leve a chave
 abir a porta 
 sair do carro
 fechar a porta
+verificar qual pneu furou0
 abir porta mala
 pegar triangulo de sinalização
 colocar o triangulo atras do carro para sinalizar a via
-se tiver estiver estepe ? tirar o estepe : ligar para o seguro
+tem estepe ? tirar o estepe : ligar para o seguro
 tirar macaco hidraulico
 tirar chave de roda
 tirar estepe
